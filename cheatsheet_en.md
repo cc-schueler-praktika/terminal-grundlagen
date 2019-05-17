@@ -103,7 +103,7 @@ cp -r notes/dir1 notes/dir2   # copy 'dir1' directory to a new directory 'dir2'
 ```
 
 ```bash
-rm file1 # delete file named 'file1'
+rm file1              # delete file named 'file1'
 rmdir notes/dir1      # delete empty directory named 'dir1'
 rmdir -r notes/dir2   # remove directory 'dir2' and all files and directories within it
 ```
